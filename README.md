@@ -1,4 +1,3 @@
-````md
 # @t8n/ui
 
 A **minimal, explicit UI extension for TitanPL** that lets you render HTML and inject CSS **in a single render call** — with **no static routes**, **no magic**, and **full control**.
