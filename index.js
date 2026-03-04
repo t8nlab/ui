@@ -7,7 +7,7 @@
  *   t.ui.clearCache()
  */
 
-import { registerExtension } from "./utils/registerExtension.js";
+import { registerExtension } from "./utils/registerExtension";
 import { fs, ls } from "@titanpl/core"
 
 const _G = globalThis;
