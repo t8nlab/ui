@@ -1,20 +1,8 @@
 {
     "name": "@t8n/ui",
-    "version": "1.8.0",
+    "version": "1.8.3",
     "main": "index.js",
     "description": "A lightweight HTML templating engine for TitanPL with file caching and variable interpolation.",
-    "keywords": [
-      "titanpl",
-      "t8n",
-      "titan",
-      "titan planet",
-      "templating",
-      "html",
-      "template",
-      "engine",
-      "gravity",
-      "@titanpl/core"
-    ],
     "author": "Shoya"
   }
   

@@ -1,6 +1,6 @@
 {
   "name": "@t8n/ui",
-  "version": "1.8.0",
+  "version": "1.8.3",
   "description": "A lightweight HTML templating engine for TitanPL with file caching and variable interpolation.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -29,9 +29,9 @@
   "author": "Shoya",
   "license": "ISC",
   "dependencies": {
-    "@titanpl/core": "1.4.0",
+    "@titanpl/core": "26.17.1",
+    "@titanpl/native": "^2.0.4",
     "chokidar": "^5.0.0",
-    "esbuild": "^0.27.2",
-    "titanpl-sdk": "1.4.0"
+    "esbuild": "^0.27.2"
   }
 }

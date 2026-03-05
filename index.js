@@ -8,7 +8,7 @@
  */
 
 import { registerExtension } from "./utils/registerExtension";
-import { fs, ls } from "@titanpl/core"
+import { fs, ls } from "@titanpl/native"
 
 const _G = globalThis;
 const t =
