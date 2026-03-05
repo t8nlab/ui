@@ -1,6 +1,6 @@
 {
     "name": "@t8n/ui",
-    "version": "1.6.0",
+    "version": "1.8.0",
     "main": "index.js",
     "description": "A lightweight HTML templating engine for TitanPL with file caching and variable interpolation.",
     "keywords": [
