@@ -18,15 +18,15 @@
     "template",
     "engine",
     "gravity",
-    "@titanpl/core",
-    "@ezetgalxy/titan"
+    "@titanpl/core"
   ],
   "files": [
     "index.js",
     "index.d.ts",
-    "/utils"
+    "/utils",
+    "titan.json"
   ],
-  "author": "Shoya",
+  "author": "ezetgalaxy",
   "license": "ISC",
   "dependencies": {
     "@titanpl/core": "26.17.1",

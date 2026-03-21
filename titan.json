@@ -3,6 +3,6 @@
     "version": "1.8.3",
     "main": "index.js",
     "description": "A lightweight HTML templating engine for TitanPL with file caching and variable interpolation.",
-    "author": "Shoya"
+    "author": "ezetgalaxy"
   }
   
